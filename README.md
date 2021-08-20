@@ -1,4 +1,4 @@
-![LOGO](LOGO.png)
+![LOGO](https://xunscore.github.io/GiulianiStudies/LOGO.png)
 # Mauro Giuliani's 120 Studies For Right Hand Development
 # 莫罗·朱利安尼的120首右手指法练习曲
 
